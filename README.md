@@ -28,9 +28,13 @@ It fetches real-time weather data and displays it in a clean and user-friendly i
 
 ## 🧠 Concepts Covered
 Fetching data from external APIs
+
 React hooks (useState, useEffect)
+
 Conditional rendering (error/loading state)
+
 Handling user input (city search)
+
 Responsive layout with CSS
 
 ---
